@@ -3,7 +3,7 @@
 
 .. image:: https://readthedocs.org/projects/pyota/badge/?version=latest
    :target: http://pyota.readthedocs.io/en/latest/?badge=latest
-#Forked to potentially mess around with/optimize packages without ruining the original Git. 
+Forked to potentially mess around with/optimize packages without ruining the original Git. 
 
 =====
 PyOTA
